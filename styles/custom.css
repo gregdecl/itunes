@@ -1,0 +1,212 @@
+.black {
+    background-color: black;
+    margin-bottom: 30px;
+}
+
+.CDW {
+    background-color: #f5f5f5;
+    
+}
+
+
+.DFX {
+    background-color: #f5f5f5;  
+    
+}
+
+h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 600;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+.CDWH2 h2:hover {
+    background-color:#f5f5f5;
+    color: black;    
+}
+
+.NKH2 h2:hover {
+    background-color: white;
+    color: black;    
+}
+
+h3 {
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+h4 {
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h5 {
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+    font-size: 12px;
+}
+
+.infoCDW {
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    color: #524b4b;
+}
+
+.tracksCDW {
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    color: #524b4b;
+}
+
+.tracksCDW li {
+    border-bottom: 1px solid #524b4b;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    padding-bottom: 2px;
+}
+
+.picCDW img {
+    padding-top: 15px;
+}
+
+
+p {
+    font-size: 12px;
+    color: #524b4b;
+}
+
+
+.infoNK {
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    color: #524b4b;
+}
+
+.tracksNK {
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    color: #524b4b;
+}
+
+.tracksNK li {
+    border-bottom: 1px solid #524b4b;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    padding-bottom: 2px;
+}
+
+.picNK img {
+    padding-top: 15px;
+}
+
+    
+.infoDFX {
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    color: #524b4b;
+}
+
+.tracksDFX {
+    font-size: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    color: #524b4b;
+    text-decoration: none;
+}
+
+.tracksDFX li {
+    border-bottom: 1px solid #524b4b;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    padding-bottom: 2px;
+}
+
+.picDFX img {
+    padding-top: 15px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: black;
+    padding: 20px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+
+.button {
+  	display: inline-block;
+  	width: 100%;
+  	padding: 10px;
+  	color: white;
+  	border: 1px solid #fff;
+  	text-align: center;
+  	text-decoration: none;
+  	margin-top: 20px;
+    background-color: black;
+    margin-bottom: 30px;
+    font-size: 20px;
+    border-bottom: none;
+}
+
+.button:hover {
+	background-color: white;
+	border:solid 1px rgba(150,18,18,1);
+	color: black;
+    text-decoration-line: none;
+}
+
+
+
+button:hover {
+    opacity: 0.6;
+    text-decoration: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: #524b4b;
+    border: none;
+}
+
+a:hover {
+    opacity: 0.6;
+    text-decoration-line: none;
+}
+
+.NKTracks {
+    margin-top: 75px;
+}
+
+.DFXTracks {
+    margin-top: 56px;
+}
+
+
